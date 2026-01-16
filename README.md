@@ -1,2 +1,2 @@
-# NETFLIX-cLONE
+# NETFLIX-CLONE
 Created with CodeSandbox
